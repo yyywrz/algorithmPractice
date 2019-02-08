@@ -1,5 +1,5 @@
 # Algorithm Practice Works
-This file includes my notes and practice works associated to the Algorithm Analysis course.
+This file includes my notes and practice works associated to the **Analysis of Algorithm** course.
 <br><br>
 1.[Insertion Sorting](https://github.com/yyywrz/algorithmPractice/blob/master/InsertionSorting/InsertSorting.java)<br><br>
 Basic Idea:<br>
