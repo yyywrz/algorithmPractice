@@ -5,7 +5,7 @@ This file includes my notes and practice works associated to the **Analysis of A
 Basic Idea:<br>
 * j points to current element<br>
 * 1...j−1 are sorted<br>
-* j...n is yet unsorted<br>
+* j...n are yet unsorted<br>
 * operation: pick and insert A[j] correctly in A[1...j−1]<br>
 * Termination: when j > n<br><br>
 
